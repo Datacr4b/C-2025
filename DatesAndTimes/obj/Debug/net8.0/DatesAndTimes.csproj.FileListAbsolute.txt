@@ -1,0 +1,15 @@
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.exe
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.deps.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.runtimeconfig.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\bin\Debug\net8.0\DatesAndTimes.pdb
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.AssemblyInfoInputs.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.AssemblyInfo.cs
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.sourcelink.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\refint\DatesAndTimes.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.pdb
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\DatesAndTimes.genruntimeconfig.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\DatesAndTimes\obj\Debug\net8.0\ref\DatesAndTimes.dll

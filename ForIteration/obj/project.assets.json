@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\ForIteration\\ForIteration.csproj",
+      "projectUniqueName": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\ForIteration\\ForIteration.csproj",
       "projectName": "ForIteration",
-      "projectPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\ForIteration\\ForIteration.csproj",
+      "projectPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\ForIteration\\ForIteration.csproj",
       "packagesPath": "C:\\Users\\julia.menshikov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\ForIteration\\obj\\",
+      "outputPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\ForIteration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia.menshikov\\AppData\\Roaming\\NuGet\\NuGet.Config"

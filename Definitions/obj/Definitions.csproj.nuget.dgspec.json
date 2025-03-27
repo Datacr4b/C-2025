@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\Definitions\\Definitions.csproj": {}
+    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\Definitions\\Definitions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\Definitions\\Definitions.csproj": {
+    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\Definitions\\Definitions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\Definitions\\Definitions.csproj",
+        "projectUniqueName": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\Definitions\\Definitions.csproj",
         "projectName": "Definitions",
-        "projectPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\Definitions\\Definitions.csproj",
+        "projectPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\Definitions\\Definitions.csproj",
         "packagesPath": "C:\\Users\\julia.menshikov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\Definitions\\obj\\",
+        "outputPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\Definitions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia.menshikov\\AppData\\Roaming\\NuGet\\NuGet.Config"

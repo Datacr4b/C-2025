@@ -1,0 +1,15 @@
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.exe
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.deps.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.runtimeconfig.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.pdb
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfoInputs.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfo.cs
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.sourcelink.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\refint\WorkingWithStrings.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.pdb
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.genruntimeconfig.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\WorkingWithStrings\obj\Debug\net8.0\ref\WorkingWithStrings.dll

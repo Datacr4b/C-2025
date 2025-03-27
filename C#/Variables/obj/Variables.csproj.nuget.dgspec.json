@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\C#\\Variables\\Variables.csproj": {}
+    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\C#\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\C#\\Variables\\Variables.csproj": {
+    "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\C#\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\C#\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\C#\\Variables\\Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\C#\\Variables\\Variables.csproj",
+        "projectPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\C#\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\julia.menshikov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise\\C#\\Variables\\obj\\",
+        "outputPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C#\\C#\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia.menshikov\\AppData\\Roaming\\NuGet\\NuGet.Config"

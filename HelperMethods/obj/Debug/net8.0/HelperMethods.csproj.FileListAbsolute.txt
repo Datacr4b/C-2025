@@ -1,0 +1,15 @@
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\bin\Debug\net8.0\HelperMethods.exe
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\bin\Debug\net8.0\HelperMethods.deps.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\bin\Debug\net8.0\HelperMethods.runtimeconfig.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\bin\Debug\net8.0\HelperMethods.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\bin\Debug\net8.0\HelperMethods.pdb
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfo.cs
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.sourcelink.json
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\refint\HelperMethods.dll
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.pdb
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\HelperMethods.genruntimeconfig.cache
+C:\Users\julia.menshikov\Desktop\Tortoise C#\HelperMethods\obj\Debug\net8.0\ref\HelperMethods.dll
